@@ -1,0 +1,40 @@
+header{
+    margin: 20px 15px 20px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 700px;
+}
+.btn-contoct-us{
+    border: 2px solid #fff;
+    background-color: #000;
+    color: #fff;
+    border-radius: 25px;
+    padding: 5px 10px;
+}
+.btn-contoct-us:hover{
+    border: 2px solid #fff;
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 25px;
+}
+.logo-img{
+    border-radius: 20px;
+    background-color: aliceblue;
+    width: 70px;
+    height: 35px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
